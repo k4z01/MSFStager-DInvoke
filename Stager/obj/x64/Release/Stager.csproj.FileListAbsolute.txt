@@ -1,0 +1,14 @@
+C:\Users\john\Desktop\Stager\Stager\bin\x64\Release\Stager.exe.config
+C:\Users\john\Desktop\Stager\Stager\bin\x64\Release\Stager.exe
+C:\Users\john\Desktop\Stager\Stager\bin\x64\Release\Stager.pdb
+C:\Users\john\Desktop\Stager\Stager\bin\x64\Release\DInvoke.Data.dll
+C:\Users\john\Desktop\Stager\Stager\bin\x64\Release\DInvoke.DynamicInvoke.dll
+C:\Users\john\Desktop\Stager\Stager\bin\x64\Release\DInvoke.ManualMap.dll
+C:\Users\john\Desktop\Stager\Stager\bin\x64\Release\DInvoke.Data.pdb
+C:\Users\john\Desktop\Stager\Stager\bin\x64\Release\DInvoke.DynamicInvoke.pdb
+C:\Users\john\Desktop\Stager\Stager\bin\x64\Release\DInvoke.ManualMap.pdb
+C:\Users\john\Desktop\Stager\Stager\obj\x64\Release\Stager.csproj.AssemblyReference.cache
+C:\Users\john\Desktop\Stager\Stager\obj\x64\Release\Stager.csproj.CoreCompileInputs.cache
+C:\Users\john\Desktop\Stager\Stager\obj\x64\Release\Stager.csproj.CopyComplete
+C:\Users\john\Desktop\Stager\Stager\obj\x64\Release\Stager.exe
+C:\Users\john\Desktop\Stager\Stager\obj\x64\Release\Stager.pdb

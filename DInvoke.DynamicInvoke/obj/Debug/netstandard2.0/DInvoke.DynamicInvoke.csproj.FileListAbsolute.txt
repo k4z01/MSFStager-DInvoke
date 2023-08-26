@@ -1,0 +1,39 @@
+C:\Users\john\Downloads\DInvoke-master\DInvoke.DynamicInvoke\obj\Debug\netstandard2.0\DInvoke.DynamicInvoke.csproj.AssemblyReference.cache
+C:\Users\john\Downloads\DInvoke-master\DInvoke.DynamicInvoke\obj\Debug\netstandard2.0\DInvoke.DynamicInvoke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\john\Downloads\DInvoke-master\DInvoke.DynamicInvoke\obj\Debug\netstandard2.0\DInvoke.DynamicInvoke.AssemblyInfoInputs.cache
+C:\Users\john\Downloads\DInvoke-master\DInvoke.DynamicInvoke\obj\Debug\netstandard2.0\DInvoke.DynamicInvoke.AssemblyInfo.cs
+C:\Users\john\Downloads\DInvoke-master\DInvoke.DynamicInvoke\obj\Debug\netstandard2.0\DInvoke.DynamicInvoke.csproj.CoreCompileInputs.cache
+C:\Users\john\Downloads\DInvoke-master\DInvoke.DynamicInvoke\bin\Debug\netstandard2.0\DInvoke.DynamicInvoke.deps.json
+C:\Users\john\Downloads\DInvoke-master\DInvoke.DynamicInvoke\bin\Debug\netstandard2.0\DInvoke.DynamicInvoke.dll
+C:\Users\john\Downloads\DInvoke-master\DInvoke.DynamicInvoke\bin\Debug\netstandard2.0\DInvoke.DynamicInvoke.pdb
+C:\Users\john\Downloads\DInvoke-master\DInvoke.DynamicInvoke\bin\Debug\netstandard2.0\DInvoke.Data.dll
+C:\Users\john\Downloads\DInvoke-master\DInvoke.DynamicInvoke\bin\Debug\netstandard2.0\DInvoke.Data.pdb
+C:\Users\john\Downloads\DInvoke-master\DInvoke.DynamicInvoke\obj\Debug\netstandard2.0\DInvoke.DynamicInvoke.csproj.CopyComplete
+C:\Users\john\Downloads\DInvoke-master\DInvoke.DynamicInvoke\obj\Debug\netstandard2.0\DInvoke.DynamicInvoke.dll
+C:\Users\john\Downloads\DInvoke-master\DInvoke.DynamicInvoke\obj\Debug\netstandard2.0\DInvoke.DynamicInvoke.pdb
+C:\Users\john\Desktop\Stager-DInvoke - ManualMap\DInvoke.DynamicInvoke\bin\Debug\netstandard2.0\DInvoke.DynamicInvoke.deps.json
+C:\Users\john\Desktop\Stager-DInvoke - ManualMap\DInvoke.DynamicInvoke\bin\Debug\netstandard2.0\DInvoke.DynamicInvoke.dll
+C:\Users\john\Desktop\Stager-DInvoke - ManualMap\DInvoke.DynamicInvoke\bin\Debug\netstandard2.0\DInvoke.DynamicInvoke.pdb
+C:\Users\john\Desktop\Stager-DInvoke - ManualMap\DInvoke.DynamicInvoke\bin\Debug\netstandard2.0\DInvoke.Data.dll
+C:\Users\john\Desktop\Stager-DInvoke - ManualMap\DInvoke.DynamicInvoke\bin\Debug\netstandard2.0\DInvoke.Data.pdb
+C:\Users\john\Desktop\Stager-DInvoke - ManualMap\DInvoke.DynamicInvoke\obj\Debug\netstandard2.0\DInvoke.DynamicInvoke.csproj.AssemblyReference.cache
+C:\Users\john\Desktop\Stager-DInvoke - ManualMap\DInvoke.DynamicInvoke\obj\Debug\netstandard2.0\DInvoke.DynamicInvoke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\john\Desktop\Stager-DInvoke - ManualMap\DInvoke.DynamicInvoke\obj\Debug\netstandard2.0\DInvoke.DynamicInvoke.AssemblyInfoInputs.cache
+C:\Users\john\Desktop\Stager-DInvoke - ManualMap\DInvoke.DynamicInvoke\obj\Debug\netstandard2.0\DInvoke.DynamicInvoke.AssemblyInfo.cs
+C:\Users\john\Desktop\Stager-DInvoke - ManualMap\DInvoke.DynamicInvoke\obj\Debug\netstandard2.0\DInvoke.DynamicInvoke.csproj.CoreCompileInputs.cache
+C:\Users\john\Desktop\Stager-DInvoke - ManualMap\DInvoke.DynamicInvoke\obj\Debug\netstandard2.0\DInvoke.DynamicInvoke.csproj.CopyComplete
+C:\Users\john\Desktop\Stager-DInvoke - ManualMap\DInvoke.DynamicInvoke\obj\Debug\netstandard2.0\DInvoke.DynamicInvoke.dll
+C:\Users\john\Desktop\Stager-DInvoke - ManualMap\DInvoke.DynamicInvoke\obj\Debug\netstandard2.0\DInvoke.DynamicInvoke.pdb
+X:\Documents\Google Drive\Dev\C#\Stager-DInvoke - ManualMap\DInvoke.DynamicInvoke\bin\Debug\netstandard2.0\DInvoke.DynamicInvoke.deps.json
+X:\Documents\Google Drive\Dev\C#\Stager-DInvoke - ManualMap\DInvoke.DynamicInvoke\bin\Debug\netstandard2.0\DInvoke.DynamicInvoke.dll
+X:\Documents\Google Drive\Dev\C#\Stager-DInvoke - ManualMap\DInvoke.DynamicInvoke\bin\Debug\netstandard2.0\DInvoke.DynamicInvoke.pdb
+X:\Documents\Google Drive\Dev\C#\Stager-DInvoke - ManualMap\DInvoke.DynamicInvoke\bin\Debug\netstandard2.0\DInvoke.Data.dll
+X:\Documents\Google Drive\Dev\C#\Stager-DInvoke - ManualMap\DInvoke.DynamicInvoke\bin\Debug\netstandard2.0\DInvoke.Data.pdb
+X:\Documents\Google Drive\Dev\C#\Stager-DInvoke - ManualMap\DInvoke.DynamicInvoke\obj\Debug\netstandard2.0\DInvoke.DynamicInvoke.csproj.AssemblyReference.cache
+X:\Documents\Google Drive\Dev\C#\Stager-DInvoke - ManualMap\DInvoke.DynamicInvoke\obj\Debug\netstandard2.0\DInvoke.DynamicInvoke.GeneratedMSBuildEditorConfig.editorconfig
+X:\Documents\Google Drive\Dev\C#\Stager-DInvoke - ManualMap\DInvoke.DynamicInvoke\obj\Debug\netstandard2.0\DInvoke.DynamicInvoke.AssemblyInfoInputs.cache
+X:\Documents\Google Drive\Dev\C#\Stager-DInvoke - ManualMap\DInvoke.DynamicInvoke\obj\Debug\netstandard2.0\DInvoke.DynamicInvoke.AssemblyInfo.cs
+X:\Documents\Google Drive\Dev\C#\Stager-DInvoke - ManualMap\DInvoke.DynamicInvoke\obj\Debug\netstandard2.0\DInvoke.DynamicInvoke.csproj.CoreCompileInputs.cache
+X:\Documents\Google Drive\Dev\C#\Stager-DInvoke - ManualMap\DInvoke.DynamicInvoke\obj\Debug\netstandard2.0\DInvoke.DynamicInvoke.csproj.CopyComplete
+X:\Documents\Google Drive\Dev\C#\Stager-DInvoke - ManualMap\DInvoke.DynamicInvoke\obj\Debug\netstandard2.0\DInvoke.DynamicInvoke.dll
+X:\Documents\Google Drive\Dev\C#\Stager-DInvoke - ManualMap\DInvoke.DynamicInvoke\obj\Debug\netstandard2.0\DInvoke.DynamicInvoke.pdb

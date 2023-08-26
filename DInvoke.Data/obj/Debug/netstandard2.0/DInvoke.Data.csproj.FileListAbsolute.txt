@@ -1,0 +1,30 @@
+C:\Users\john\Downloads\DInvoke-master\DInvoke.Data\obj\Debug\netstandard2.0\DInvoke.Data.csproj.AssemblyReference.cache
+C:\Users\john\Downloads\DInvoke-master\DInvoke.Data\obj\Debug\netstandard2.0\DInvoke.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\john\Downloads\DInvoke-master\DInvoke.Data\obj\Debug\netstandard2.0\DInvoke.Data.AssemblyInfoInputs.cache
+C:\Users\john\Downloads\DInvoke-master\DInvoke.Data\obj\Debug\netstandard2.0\DInvoke.Data.AssemblyInfo.cs
+C:\Users\john\Downloads\DInvoke-master\DInvoke.Data\obj\Debug\netstandard2.0\DInvoke.Data.csproj.CoreCompileInputs.cache
+C:\Users\john\Downloads\DInvoke-master\DInvoke.Data\bin\Debug\netstandard2.0\DInvoke.Data.deps.json
+C:\Users\john\Downloads\DInvoke-master\DInvoke.Data\bin\Debug\netstandard2.0\DInvoke.Data.dll
+C:\Users\john\Downloads\DInvoke-master\DInvoke.Data\bin\Debug\netstandard2.0\DInvoke.Data.pdb
+C:\Users\john\Downloads\DInvoke-master\DInvoke.Data\obj\Debug\netstandard2.0\DInvoke.Data.dll
+C:\Users\john\Downloads\DInvoke-master\DInvoke.Data\obj\Debug\netstandard2.0\DInvoke.Data.pdb
+C:\Users\john\Desktop\Stager-DInvoke - ManualMap\DInvoke.Data\bin\Debug\netstandard2.0\DInvoke.Data.deps.json
+C:\Users\john\Desktop\Stager-DInvoke - ManualMap\DInvoke.Data\bin\Debug\netstandard2.0\DInvoke.Data.dll
+C:\Users\john\Desktop\Stager-DInvoke - ManualMap\DInvoke.Data\bin\Debug\netstandard2.0\DInvoke.Data.pdb
+C:\Users\john\Desktop\Stager-DInvoke - ManualMap\DInvoke.Data\obj\Debug\netstandard2.0\DInvoke.Data.csproj.AssemblyReference.cache
+C:\Users\john\Desktop\Stager-DInvoke - ManualMap\DInvoke.Data\obj\Debug\netstandard2.0\DInvoke.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\john\Desktop\Stager-DInvoke - ManualMap\DInvoke.Data\obj\Debug\netstandard2.0\DInvoke.Data.AssemblyInfoInputs.cache
+C:\Users\john\Desktop\Stager-DInvoke - ManualMap\DInvoke.Data\obj\Debug\netstandard2.0\DInvoke.Data.AssemblyInfo.cs
+C:\Users\john\Desktop\Stager-DInvoke - ManualMap\DInvoke.Data\obj\Debug\netstandard2.0\DInvoke.Data.csproj.CoreCompileInputs.cache
+C:\Users\john\Desktop\Stager-DInvoke - ManualMap\DInvoke.Data\obj\Debug\netstandard2.0\DInvoke.Data.dll
+C:\Users\john\Desktop\Stager-DInvoke - ManualMap\DInvoke.Data\obj\Debug\netstandard2.0\DInvoke.Data.pdb
+X:\Documents\Google Drive\Dev\C#\Stager-DInvoke - ManualMap\DInvoke.Data\bin\Debug\netstandard2.0\DInvoke.Data.deps.json
+X:\Documents\Google Drive\Dev\C#\Stager-DInvoke - ManualMap\DInvoke.Data\bin\Debug\netstandard2.0\DInvoke.Data.dll
+X:\Documents\Google Drive\Dev\C#\Stager-DInvoke - ManualMap\DInvoke.Data\bin\Debug\netstandard2.0\DInvoke.Data.pdb
+X:\Documents\Google Drive\Dev\C#\Stager-DInvoke - ManualMap\DInvoke.Data\obj\Debug\netstandard2.0\DInvoke.Data.csproj.AssemblyReference.cache
+X:\Documents\Google Drive\Dev\C#\Stager-DInvoke - ManualMap\DInvoke.Data\obj\Debug\netstandard2.0\DInvoke.Data.GeneratedMSBuildEditorConfig.editorconfig
+X:\Documents\Google Drive\Dev\C#\Stager-DInvoke - ManualMap\DInvoke.Data\obj\Debug\netstandard2.0\DInvoke.Data.AssemblyInfoInputs.cache
+X:\Documents\Google Drive\Dev\C#\Stager-DInvoke - ManualMap\DInvoke.Data\obj\Debug\netstandard2.0\DInvoke.Data.AssemblyInfo.cs
+X:\Documents\Google Drive\Dev\C#\Stager-DInvoke - ManualMap\DInvoke.Data\obj\Debug\netstandard2.0\DInvoke.Data.csproj.CoreCompileInputs.cache
+X:\Documents\Google Drive\Dev\C#\Stager-DInvoke - ManualMap\DInvoke.Data\obj\Debug\netstandard2.0\DInvoke.Data.dll
+X:\Documents\Google Drive\Dev\C#\Stager-DInvoke - ManualMap\DInvoke.Data\obj\Debug\netstandard2.0\DInvoke.Data.pdb
