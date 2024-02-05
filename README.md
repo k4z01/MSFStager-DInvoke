@@ -20,7 +20,7 @@ As of <u>30-07-2023</u> this results on an undetected Meterpreter session \[at l
 -Meterpreter session is established
 
 
-https://blindsecurity.gr
+https://book.blindsecurity.gr
 
 ## 
 ![alt text](https://github.com/k4z01/MSFStager-DInvoke/blob/main/test.gif?raw=true)
